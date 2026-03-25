@@ -1,3 +1,3 @@
 # flutter-projects
 
-Flutter project`s rep, for my "home projects".
+There are my flutter projects(not finished) and my study in VOGU.
